@@ -1,4 +1,4 @@
-# 🦸‍♂️ The Frizz's Pen Test Project Management Toolkit
+# 🦸‍♂️ The Frizz's Pentest Project Management Toolkit
 
 Welcome to the ultimate hub for penetration test project management, curated by **The Frizz** — your friendly neighborhood SME (Subject Matter Enthusiast)! 🚀
 
